@@ -1,2 +1,2 @@
 # hello-world
-#trying to get into statistics and cognitive science
+trying to get into statistics and cognitive science
